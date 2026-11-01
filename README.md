@@ -1,79 +1,47 @@
-<p align="center">
-  <img src="./assets/redacted-hero.svg" width="100%" alt="REDACTED — Build with intent. Ship with proof. Systems engineering, AI workflows, infrastructure, and gaming systems." />
-</p>
+<a href="https://github.com/RedactedNode?tab=repositories">
+  <img src="./assets/control-plane.gif" width="100%" alt="REDACTED. Human intent. Machine-scale execution. An animated neural core and moving signal illustrate the build protocol: intent, context, execution, proof." />
+</a>
 
 <p align="center">
-  <a href="https://github.com/RedactedNode?tab=repositories"><strong>EXPLORE THE WORK ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/RedactedNode?tab=repositories"><strong>ENTER THE WORKBENCH ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="https://vicegamer.com"><strong>VICE NETWORK ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="./assets/control-plane-poster.png">Static view</a>
 </p>
 
 <br>
 
-### Systems that turn ideas into operations.
+### Intelligence is only useful when it becomes something you can use.
 
-I'm **REDACTED**, a systems engineer working across AI workflows, application infrastructure, and multiplayer communities. I care about how the pieces connect: the interface, the automation, the deployment, and the person using it.
-
-**Current focus:** making AI-assisted work easier to coordinate, preserve, and carry through to completion.
+I'm **REDACTED**, a systems engineer connecting **AI orchestration, product interfaces, and gaming infrastructure**. My focus is the whole experience: how it looks, how it thinks, and how it holds up when people use it.
 
 <br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**01 / INTELLIGENCE**
-
-### AI & workflows
-
-Provider-agnostic tooling, project continuity, structured handoffs, and automation with verifiable outcomes.
-
-</td>
-<td width="33%" valign="top">
-
-**02 / INFRASTRUCTURE**
-
-### Build & operate
-
-Application deployment, databases, service orchestration, and the systems that keep products running.
-
-</td>
-<td width="33%" valign="top">
-
-**03 / INTERACTIVE**
-
-### Gaming & community
-
-Arma Reforger, FiveM, Discord integrations, and the operational tooling behind multiplayer experiences.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### The operating principles
-
-**Keep context.** Decisions should survive the handoff.  
-**Reduce friction.** Use the simplest system that gets the job done.  
-**Prove the result.** Finish, test, repair, verify.
-
-<br>
-
-### Open-source workbench
-
-A selection of upstream projects I explore through forks. **Credit belongs to their original authors.**
-
-| Area | Explore |
-| :--- | :--- |
-| Mission tooling | [TilW Mission Framework](https://github.com/RedactedNode/tilw-mission-framework) |
-| Game Master tooling | [GME_AR](https://github.com/RedactedNode/GME_AR) |
-| Community integrations | [Arma Discord bot](https://github.com/RedactedNode/arma-bot-5th-SFG-pve) |
-
-<br>
-
----
 
 <p align="center">
-  <sub><strong>REDACTEDNODE</strong> &nbsp; / &nbsp; CONNECTED THINKING. OPERATIONAL RESULTS.</sub>
+  <a href="https://github.com/RedactedNode?tab=repositories&amp;q=ai"><img src="./assets/portal-ai.svg" width="32%" alt="Intelligence: Many models. One mission. Explore AI tooling." /></a>
+  <a href="https://github.com/RedactedNode?tab=repositories"><img src="./assets/portal-experience.svg" width="32%" alt="Experience: Interfaces with presence. Explore the work." /></a>
+  <a href="https://github.com/RedactedNode?tab=repositories&amp;q=arma"><img src="./assets/portal-operations.svg" width="32%" alt="Operations: Built for the real world. Explore gaming systems." /></a>
+</p>
+
+<br>
+
+**One operating standard:** preserve context → connect the tools → execute → verify.
+
+<details>
+<summary><strong>Open the field notes ↗</strong></summary>
+
+<br>
+
+- **AI systems:** provider-agnostic workflows, project continuity, structured handoffs, and automation.
+- **Interfaces:** clear hierarchy, purposeful motion, and tools that make complex work easier to navigate.
+- **Operations:** deployment, databases, Discord integrations, Arma Reforger, and FiveM.
+- **Open-source exploration:** my public workbench includes forks; original authors retain credit for their projects.
+
+</details>
+
+<br>
+
+<p align="center">
+  <sub><strong>HUMAN-LED. AI-AMPLIFIED. OUTCOME-DRIVEN.</strong></sub>
 </p>
