@@ -1,55 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="589" viewBox="0 0 900 589" role="img" aria-labelledby="title desc">
 <title id="title">What I build</title>
 <desc id="desc">Platform architecture. Service isolation · lifecycle management. Configuration · dependency management. Developer experience. Internal tooling · workflow automation. Reusable interfaces · design systems. Delivery engineering. Reproducible builds · containerization. Release validation · rollback readiness. Systems integration. API integration · relational persistence. Schema evolution · asynchronous jobs. Operational reliability. Health monitoring · failure recovery. Runbooks · environment isolation. AI platform engineering. Inference routing · provider abstraction. Failover · quotas · approval workflows. Governance &amp; knowledge systems. Access control · auditability · provenance. Context continuity · versioned operational knowledge</desc>
-<rect x="1" y="1" width="898" height="587" rx="25" fill="#10131b" stroke="#303749" stroke-width="2"/>
-<text x="28" y="59" fill="#f8f9fc" font-family="system-ui,sans-serif" font-size="38" font-weight="750">What I build</text>
+<defs><pattern id="circuit-grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#4e9cb5" stroke-opacity=".10"/></pattern></defs><style>.trace{stroke-dasharray:12 50;animation:signal 3s linear infinite}@keyframes signal{to{stroke-dashoffset:-62}}@media(prefers-reduced-motion:reduce){.trace{animation:none}}</style><rect x="1" y="1" width="898" height="587" rx="8" fill="#070e18" stroke="#303749" stroke-width="2"/>
+<rect x="8" y="8" width="884" height="570" fill="url(#circuit-grid)"/><path d="M28 70h844" stroke="#274b60"/><path d="M28 70h150" stroke="#58e9ff" stroke-width="2"/><text x="872" y="51" text-anchor="end" fill="#6bb7cc" font-family="Consolas,monospace" font-size="13" letter-spacing="2">PLATFORM CAPABILITIES</text><text x="28" y="59" fill="#f8f9fc" font-family="system-ui,sans-serif" font-size="38" font-weight="750">What I build</text>
 <g transform="translate(28 84)">
-<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#c7a0ff" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#c7a0ff"/>
-<text x="20" y="33" fill="#c7a0ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Platform architecture</text>
+<rect width="414" height="105" rx="2" fill="#0c1928" stroke="#c7a0ff" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#c7a0ff"/>
+<text x="20" y="33" fill="#c7a0ff" font-family="Consolas,monospace" font-size="23" font-weight="700">Platform architecture</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Service isolation · lifecycle management</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Configuration · dependency management</text>
 </g>
 <g transform="translate(458 84)">
-<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#78e6df" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#78e6df"/>
-<text x="20" y="33" fill="#78e6df" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Developer experience</text>
+<rect width="414" height="105" rx="2" fill="#0c1928" stroke="#78e6df" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#78e6df"/>
+<text x="20" y="33" fill="#78e6df" font-family="Consolas,monospace" font-size="23" font-weight="700">Developer experience</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Internal tooling · workflow automation</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Reusable interfaces · design systems</text>
 </g>
 <g transform="translate(28 205)">
-<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#8cb9ff" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#8cb9ff"/>
-<text x="20" y="33" fill="#8cb9ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Delivery engineering</text>
+<rect width="414" height="105" rx="2" fill="#0c1928" stroke="#8cb9ff" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#8cb9ff"/>
+<text x="20" y="33" fill="#8cb9ff" font-family="Consolas,monospace" font-size="23" font-weight="700">Delivery engineering</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Reproducible builds · containerization</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Release validation · rollback readiness</text>
 </g>
 <g transform="translate(458 205)">
-<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#ffc176" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#ffc176"/>
-<text x="20" y="33" fill="#ffc176" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Systems integration</text>
+<rect width="414" height="105" rx="2" fill="#0c1928" stroke="#ffc176" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#ffc176"/>
+<text x="20" y="33" fill="#ffc176" font-family="Consolas,monospace" font-size="23" font-weight="700">Systems integration</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">API integration · relational persistence</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Schema evolution · asynchronous jobs</text>
 </g>
 <g transform="translate(28 326)">
-<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#b6e47d" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#b6e47d"/>
-<text x="20" y="33" fill="#b6e47d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Operational reliability</text>
+<rect width="414" height="105" rx="2" fill="#0c1928" stroke="#b6e47d" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#b6e47d"/>
+<text x="20" y="33" fill="#b6e47d" font-family="Consolas,monospace" font-size="23" font-weight="700">Operational reliability</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Health monitoring · failure recovery</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Runbooks · environment isolation</text>
 </g>
 <g transform="translate(458 326)">
-<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#ff9bac" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#ff9bac"/>
-<text x="20" y="33" fill="#ff9bac" font-family="system-ui,sans-serif" font-size="25" font-weight="700">AI platform engineering</text>
+<rect width="414" height="105" rx="2" fill="#0c1928" stroke="#ff9bac" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#ff9bac"/>
+<text x="20" y="33" fill="#ff9bac" font-family="Consolas,monospace" font-size="23" font-weight="700">AI platform engineering</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Inference routing · provider abstraction</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Failover · quotas · approval workflows</text>
 </g>
 <g transform="translate(28 447)">
-<rect width="844" height="105" rx="13" fill="#1b2130" stroke="#f6df7d" stroke-opacity=".45"/>
-<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#f6df7d"/>
-<text x="20" y="33" fill="#f6df7d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Governance &amp; knowledge systems</text>
+<rect width="844" height="105" rx="2" fill="#0c1928" stroke="#f6df7d" stroke-opacity=".75"/>
+<rect x="0" y="16" width="3" height="73" rx="0" fill="#f6df7d"/>
+<text x="20" y="33" fill="#f6df7d" font-family="Consolas,monospace" font-size="23" font-weight="700">Governance &amp; knowledge systems</text>
 <text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Access control · auditability · provenance</text>
 <text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Context continuity · versioned operational knowledge</text>
 </g>
-</svg>
+<g fill="none" stroke="#58e9ff" stroke-opacity=".55"><path d="M442 136h16m-16 121h16m-16 121h16M235 189v16m430-16v16M235 310v16m430-16v16M235 431v16m430-16v16"/><path class="trace" stroke-width="2" d="M450 136v242M235 197h430M235 318h430M235 439h430"/></g></svg>
