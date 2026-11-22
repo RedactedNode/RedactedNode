@@ -4,7 +4,7 @@ Platform engineering · Workflow orchestration · Service observability · Integ
 
 [Repositories](https://github.com/RedactedNode?tab=repositories) · [Vice Network](https://vicegamer.com)
 
-![What I build — Platform architecture, Developer experience, Delivery engineering, Systems integration, Operational reliability, AI platform engineering, Governance & knowledge systems](https://raw.githubusercontent.com/RedactedNode/RedactedNode/3dd837488f57a4fd179f183515e00444ccd38101/assets/what-i-build.svg)
+![What I build — Platform architecture, Developer experience, Delivery engineering, Systems integration, Operational reliability, AI platform engineering, Governance & knowledge systems](https://raw.githubusercontent.com/RedactedNode/RedactedNode/6a8248d674230fd9c47da852898237aea6992334/assets/what-i-build.svg)
 
 ## Tech stack
 
