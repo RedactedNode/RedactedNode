@@ -1,59 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="360" viewBox="0 0 1080 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="476" viewBox="0 0 1080 476" role="img" aria-labelledby="title desc">
 <title id="title">REDACTED | Platform Engineer</title>
-<desc id="desc">Animated angled server racks with signals traveling across a dark circuit board.</desc>
+<desc id="desc">Animated command interface showing infrastructure and deployment feeding platform operations, which connect to service health, data integrations, and AI orchestration.</desc>
 <defs>
-  <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#111822"/><stop offset="1" stop-color="#070b11"/></linearGradient>
-  <radialGradient id="light"><stop stop-color="#14373d"/><stop offset="1" stop-color="#0a1018" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#86b5ca" stroke-opacity=".12"/></pattern>
-  <clipPath id="frame"><rect width="1080" height="360" rx="20"/></clipPath>
+<radialGradient id="bg"><stop stop-color="#102739"/><stop offset="1" stop-color="#060b13"/></radialGradient>
+<radialGradient id="core"><stop stop-color="#133748"/><stop offset="1" stop-color="#0a1725"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#83c5ed" stroke-opacity=".10"/></pattern>
+<clipPath id="frame"><rect width="1080" height="476" rx="21"/></clipPath>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.5"/></filter>
 </defs>
 <style>
-.pulse{stroke-dasharray:35 420;animation: flow 3.8s linear infinite}
-.return{animation-direction:reverse;animation-duration:5.4s}
-.lamp{animation: lamp 2.6s ease-in-out infinite alternate}
-@keyframes flow{to{stroke-dashoffset:-455}}
-@keyframes lamp{50%{opacity:.3}}
-@media(prefers-reduced-motion:reduce){.pulse,.lamp{animation:none}}
+.mono{font-family:ui-monospace,Consolas,monospace}
+.sans{font-family:system-ui,sans-serif}
+.rotor{transform-origin:540px 229px;animation:spin 24s linear infinite}
+.counter{transform-origin:540px 229px;animation:spin 35s linear infinite reverse}
+.signal{stroke-dasharray:19 145;animation:send 2.8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes send{to{stroke-dashoffset:-164}}
+@media(prefers-reduced-motion:reduce){.rotor,.counter,.signal{animation:none}}
 </style>
 <g clip-path="url(#frame)">
-  <rect width="1080" height="360" fill="url(#bg)"/>
-  <ellipse cx="826" cy="184" rx="320" ry="225" fill="url(#light)"/>
-  <rect x="538" width="542" height="360" fill="url(#grid)" opacity=".4"/>
-  <path d="M588 44h445v272H588" fill="none" stroke="#2d414e"/>
-  <path d="M633 256l193-83 172 65-194 84zM633 268l193-83 172 65-194 84z" fill="none" stroke="#284757"/>
-  <path d="M620 280l130 49 235-101M639 218l151 58 195-83M684 147l223 84 78-34" fill="none" stroke="#376273" stroke-width="2"/>
-  <path class="pulse" d="M620 280l130 49 235-101" fill="none" stroke="#60f5df" stroke-width="4" stroke-linecap="round"/>
-  <path class="pulse return" d="M684 147l223 84 78-34" fill="none" stroke="#ff885b" stroke-width="4" stroke-linecap="round"/>
-  <g transform="translate(700 184)">
-    <path d="M-42 24l68-28 90 33-69 29z" fill="#60f5df" opacity=".12"/>
-    <path d="M-29-69l49-20 66 25-49 20z" fill="#253a47" stroke="#60f5df" stroke-opacity=".66"/>
-    <path d="M-29-69l66 25v75l-66-25z" fill="#152733" stroke="#385867"/>
-    <path d="M37-44l49-20v75L37 31z" fill="#0a151f" stroke="#385867"/>
-    <path d="M-29 6l66 25 49-20" fill="none" stroke="#60f5df" stroke-width="2"/>
-    <path d="M-19 -52l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -47l8 3" stroke="#60f5df" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0s"/><path d="M-19 -36l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -31l8 3" stroke="#60f5df" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.35s"/><path d="M-19 -20l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -15l8 3" stroke="#60f5df" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.7s"/>
-    <text transform="matrix(1,-.4,0,1,52,-7)" fill="#60f5df" font-family="monospace" font-size="16">01</text>
-  </g><g transform="translate(833 132)">
-    <path d="M-42 24l68-28 90 33-69 29z" fill="#ff885b" opacity=".12"/>
-    <path d="M-29-69l49-20 66 25-49 20z" fill="#253a47" stroke="#ff885b" stroke-opacity=".66"/>
-    <path d="M-29-69l66 25v75l-66-25z" fill="#152733" stroke="#385867"/>
-    <path d="M37-44l49-20v75L37 31z" fill="#0a151f" stroke="#385867"/>
-    <path d="M-29 6l66 25 49-20" fill="none" stroke="#ff885b" stroke-width="2"/>
-    <path d="M-19 -52l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -47l8 3" stroke="#ff885b" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.35s"/><path d="M-19 -36l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -31l8 3" stroke="#ff885b" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.7s"/><path d="M-19 -20l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -15l8 3" stroke="#ff885b" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:1.0499999999999998s"/>
-    <text transform="matrix(1,-.4,0,1,52,-7)" fill="#ff885b" font-family="monospace" font-size="16">02</text>
-  </g><g transform="translate(794 227)">
-    <path d="M-42 24l68-28 90 33-69 29z" fill="#85b9ff" opacity=".12"/>
-    <path d="M-29-69l49-20 66 25-49 20z" fill="#253a47" stroke="#85b9ff" stroke-opacity=".66"/>
-    <path d="M-29-69l66 25v75l-66-25z" fill="#152733" stroke="#385867"/>
-    <path d="M37-44l49-20v75L37 31z" fill="#0a151f" stroke="#385867"/>
-    <path d="M-29 6l66 25 49-20" fill="none" stroke="#85b9ff" stroke-width="2"/>
-    <path d="M-19 -52l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -47l8 3" stroke="#85b9ff" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.7s"/><path d="M-19 -36l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -31l8 3" stroke="#85b9ff" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:1.0499999999999998s"/><path d="M-19 -20l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -15l8 3" stroke="#85b9ff" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:1.4s"/>
-    <text transform="matrix(1,-.4,0,1,52,-7)" fill="#85b9ff" font-family="monospace" font-size="16">03</text>
-  </g>
-  <path d="M48 66h56l10-10h93" fill="none" stroke="#60f5df" stroke-width="2"/>
-  <path d="M48 271h451l21-21h44" fill="none" stroke="#385565"/>
-  <path d="M48 271h33" stroke="#ff885b" stroke-width="3"/>
-  <text x="46" y="173" fill="#eff9ff" font-family="system-ui,sans-serif" font-size="78" font-weight="850" letter-spacing="-3">REDACTED</text>
-  <text x="50" y="224" fill="#78eddb" font-family="system-ui,sans-serif" font-size="29" font-weight="650" letter-spacing="4">PLATFORM ENGINEER</text>
-  <rect x=".5" y=".5" width="1079" height="359" rx="20" fill="none" stroke="#344958"/>
+<rect width="1080" height="476" fill="url(#bg)"/>
+<rect width="1080" height="476" fill="url(#grid)"/>
+<path d="M16 100V33l17-17h54m906 0h54l17 17v67m0 276v67l-17 17h-54m-906 0H33l-17-17v-67" fill="none" stroke="#39586d"/>
+<path d="M35 92h1010" stroke="#2c465a"/>
+<path d="M35 92h175" stroke="#58e9ff" stroke-width="2"/>
+<text x="35" y="67" class="sans" fill="#f1fbff" font-size="46" font-weight="850" letter-spacing="2">REDACTED</text>
+<text x="1045" y="62" text-anchor="end" class="mono" fill="#78e7f6" font-size="21" letter-spacing="2">PLATFORM ENGINEER</text>
+<g fill="none">
+<circle cx="540" cy="229" r="122" stroke="#2a4c5c" stroke-dasharray="1 6"/>
+<circle cx="540" cy="229" r="109" stroke="#24465d"/>
+<circle class="rotor" cx="540" cy="229" r="110" stroke="#58e9ff" stroke-width="4" stroke-dasharray="86 75 24 505"/>
+<circle class="counter" cx="540" cy="229" r="96" stroke="#76c2f5" stroke-width="2" stroke-dasharray="17 8 2 280"/>
+<path d="M255 155H350L438 229" stroke="#58e9ff" opacity=".29" stroke-width="2"/><path d="M255 155H350L438 229" class="signal" style="animation-delay:-0s" stroke="#58e9ff" stroke-width="7" opacity=".6" filter="url(#glow)"/><path d="M255 155H350L438 229" class="signal" style="animation-delay:-0s" stroke="#58e9ff" stroke-width="2.5"/><path d="M255 289h91l92-60" stroke="#ffac64" opacity=".29" stroke-width="2"/><path d="M255 289h91l92-60" class="signal" style="animation-delay:-0.47s" stroke="#ffac64" stroke-width="7" opacity=".6" filter="url(#glow)"/><path d="M255 289h91l92-60" class="signal" style="animation-delay:-0.47s" stroke="#ffac64" stroke-width="2.5"/><path d="M642 229l88-74h95" stroke="#78f5be" opacity=".29" stroke-width="2"/><path d="M642 229l88-74h95" class="signal" style="animation-delay:-0.94s" stroke="#78f5be" stroke-width="7" opacity=".6" filter="url(#glow)"/><path d="M642 229l88-74h95" class="signal" style="animation-delay:-0.94s" stroke="#78f5be" stroke-width="2.5"/><path d="M642 229l92 60h91" stroke="#78b5ff" opacity=".29" stroke-width="2"/><path d="M642 229l92 60h91" class="signal" style="animation-delay:-1.41s" stroke="#78b5ff" stroke-width="7" opacity=".6" filter="url(#glow)"/><path d="M642 229l92 60h91" class="signal" style="animation-delay:-1.41s" stroke="#78b5ff" stroke-width="2.5"/><path d="M540 331v41" stroke="#c3a1ff" opacity=".29" stroke-width="2"/><path d="M540 331v41" class="signal" style="animation-delay:-1.88s" stroke="#c3a1ff" stroke-width="7" opacity=".6" filter="url(#glow)"/><path d="M540 331v41" class="signal" style="animation-delay:-1.88s" stroke="#c3a1ff" stroke-width="2.5"/>
 </g>
-</svg>
+<path d="M540 153l66 38v76l-66 38-66-38v-76z" fill="url(#core)" stroke="#54d2ec" stroke-width="1.5"/>
+<g transform="translate(520 184)" fill="none" stroke="#78e7f6" stroke-width="2"><path d="m20 0 20 10-20 10L0 10zM0 17l20 10 20-10M0 24l20 10 20-10"/></g>
+<text x="540" y="245" text-anchor="middle" class="sans" fill="#f1fbff" font-size="20" font-weight="750">PLATFORM</text>
+<text x="540" y="267" text-anchor="middle" class="mono" fill="#83d5e9" font-size="14" letter-spacing="2">OPERATIONS</text>
+<g transform="translate(35 123)">
+<path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#58e9ff" stroke-opacity=".65"/>
+<path d="M0 41V0h32" fill="none" stroke="#58e9ff" stroke-width="2"/>
+<path d="M0 0h16v6H0zM0 10h16v6H0z" transform="translate(12 13)" fill="none" stroke="#58e9ff" stroke-width="1.35" stroke-linejoin="round"/>
+<text x="37" y="25" class="mono" fill="#58e9ff" font-size="15" font-weight="700">INFRASTRUCTURE</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Windows Server / Docker</text>
+</g><g transform="translate(35 257)">
+<path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#ffac64" stroke-opacity=".65"/>
+<path d="M0 41V0h32" fill="none" stroke="#ffac64" stroke-width="2"/>
+<path d="M0 2l6 6-6 6m9 1h8" transform="translate(12 13)" fill="none" stroke="#ffac64" stroke-width="1.35" stroke-linejoin="round"/>
+<text x="37" y="25" class="mono" fill="#ffac64" font-size="15" font-weight="700">DEPLOYMENT</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">PowerShell / Caddy</text>
+</g><g transform="translate(825 123)">
+<path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#78f5be" stroke-opacity=".65"/>
+<path d="M0 41V0h32" fill="none" stroke="#78f5be" stroke-width="2"/>
+<path d="M0 8h4l3-7 4 14 3-7h4" transform="translate(12 13)" fill="none" stroke="#78f5be" stroke-width="1.35" stroke-linejoin="round"/>
+<text x="37" y="25" class="mono" fill="#78f5be" font-size="15" font-weight="700">SERVICE HEALTH</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Checks / Rollback</text>
+</g><g transform="translate(825 257)">
+<path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#78b5ff" stroke-opacity=".65"/>
+<path d="M0 41V0h32" fill="none" stroke="#78b5ff" stroke-width="2"/>
+<path d="M0 4c0-5 16-5 16 0v10c0 5-16 5-16 0zM0 4c0 5 16 5 16 0m-16 5c0 5 16 5 16 0" transform="translate(12 13)" fill="none" stroke="#78b5ff" stroke-width="1.35" stroke-linejoin="round"/>
+<text x="37" y="25" class="mono" fill="#78b5ff" font-size="15" font-weight="700">DATA &amp; INTEGRATIONS</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">PostgreSQL / Discord</text>
+</g><g transform="translate(430 372)">
+<path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#c3a1ff" stroke-opacity=".65"/>
+<path d="M0 41V0h32" fill="none" stroke="#c3a1ff" stroke-width="2"/>
+<path d="M8 0v16M0 8h16M2 2l12 12M2 14L14 2" transform="translate(12 13)" fill="none" stroke="#c3a1ff" stroke-width="1.35" stroke-linejoin="round"/>
+<text x="37" y="25" class="mono" fill="#c3a1ff" font-size="15" font-weight="700">AI ORCHESTRATION</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Model routing / Approvals</text>
+</g>
+</g></svg>
