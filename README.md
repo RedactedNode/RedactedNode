@@ -13,14 +13,6 @@ Platform engineering · Workflow orchestration · Service observability · Integ
 | **AI gateway deployment** | Deployed an OpenAI-compatible gateway as a Windows service. Documented version pinning, loopback-only access, and scripted health checks. | Local tools can use one endpoint for provider routing and fallback, with a repeatable way to verify service health. |
 | **REDACTED Command · In development** | Local-first project workspace designed around scoped approvals, structured handoffs, and verification checkpoints. | A person or agent can pick up work with the current state, decisions, and next action in view. |
 
-## Engineering capabilities
-
-- **Platform engineering & reliability** · Service isolation, lifecycle orchestration, health probes, configuration management, and operational recovery.
-- **Delivery engineering & quality assurance** · Containerization, reverse-proxy integration, reproducible builds, rollback procedures, and automated unit, end-to-end, and accessibility testing.
-- **Data architecture & systems integration** · Relational persistence, schema migrations, asynchronous job processing, API integration, and role-based access control.
-- **Developer experience & workflow automation** · Internal developer tooling, operational dashboards, reusable interfaces, and workflow orchestration.
-- **AI infrastructure & governance** · Provider-agnostic inference routing, failover, quota management, approval policies, and structured context handoffs.
-
 ![What I build — AI orchestration: Approval gates · agent handoffs, Model routing · fallback · quotas; Knowledge & decisions: Git-backed ledgers · provenance, Searchable archives · decision data; Web apps & interfaces: Responsive PWAs · camera input, Dashboards · quotes · publishing; Backend & data: Discord automation · SQL migrations, Tenant isolation · audit logs · jobs; Game infrastructure: Multi-instance Arma · mod tracking, FiveM resources · in-game UI; Deployment & QA: Windows services · Docker · Caddy, Health checks · rollback · a11y tests; Media automation: Gameplay ingest · transcription · highlight review, Captioned vertical and horizontal exports](./assets/what-i-build.svg)
 
 ## Tech stack
