@@ -28,6 +28,12 @@ I'm **REDACTED**, a systems engineer connecting **AI orchestration, product inte
 
 **One operating standard:** preserve context → connect the tools → execute → verify.
 
+## Sponsor a project
+
+![Sponsorship setup in progress](https://img.shields.io/badge/Sponsorship-Coming_soon-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)
+
+**REDACTED Command** is a local-first project workspace that helps people and AI agents pick up where the last shift ended. Sponsorship would support development, testing, and a public demo of the handoff workflow.
+
 ## Tech stack
 
 ### Languages & scripting
