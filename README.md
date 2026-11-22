@@ -1,3 +1,7 @@
+# REDACTED | Platform Engineer
+
+I build and operate **self-hosted platforms, deployment automation, and internal tools**. My work spans multi-instance Windows server operations, PostgreSQL-backed services, and AI workflow infrastructure with explicit human approvals.
+
 <a href="https://github.com/RedactedNode?tab=repositories">
   <img src="./assets/control-plane.gif" width="100%" alt="REDACTED. Human intent. Machine-scale execution. An animated neural core and moving signal illustrate the build protocol: intent, context, execution, proof." />
 </a>
@@ -10,29 +14,23 @@
   <a href="./assets/control-plane-poster.png">Static view</a>
 </p>
 
-<br>
+## Selected platform work
 
-### Intelligence is only useful when it becomes something you can use.
+| Project | What I built | What it enables |
+| --- | --- | --- |
+| **Arma Reforger server platform** | Documented five dedicated instances with separate configurations and profiles, Windows service wrappers, and PowerShell restart tooling. Automated pre- and post-restart mod inventories track version, size, and dependency changes. | Operators can restart individual instances and see what changed after a rollout. |
+| **DTOC · Discord operations platform** | Python and PostgreSQL service with Discord slash commands, role-based access, persistent rosters, recruitment workflows, and ticket assignment. | Community staff can manage routine operations from Discord with shared records and scoped access. |
+| **AI gateway deployment** | Deployed an OpenAI-compatible gateway as a Windows service. Documented version pinning, loopback-only access, and scripted health checks. | Local tools can use one endpoint for provider routing and fallback, with a repeatable way to verify service health. |
+| **REDACTED Command · In development** | Local-first project workspace designed around scoped approvals, structured handoffs, and verification checkpoints. | A person or agent can pick up work with the current state, decisions, and next action in view. |
 
-I'm **REDACTED**, a systems engineer connecting **AI orchestration, product interfaces, and gaming infrastructure**. My focus is the whole experience: how it looks, how it thinks, and how it holds up when people use it.
+## Engineering capabilities
 
-<br>
+- **Service operations** · Windows Server, PowerShell automation, instance isolation, health checks, restart procedures, and rollback documentation.
+- **Deployment and delivery** · Docker packaging, Caddy reverse-proxy configuration, reproducible builds, and unit, browser, and accessibility checks.
+- **Data and integrations** · PostgreSQL, SQLite, schema migrations, queued jobs, Discord integrations, and role-based access.
+- **Internal tools** · React, Next.js, TypeScript, Python, and Node.js for dashboards and workflows that let operators manage day-to-day work.
 
-<p align="center">
-  <a href="https://github.com/RedactedNode?tab=repositories&amp;q=ai"><img src="./assets/portal-ai.svg" width="32%" alt="Intelligence: Many models. One mission. Explore AI tooling." /></a>
-  <a href="https://github.com/RedactedNode?tab=repositories"><img src="./assets/portal-experience.svg" width="32%" alt="Experience: Interfaces with presence. Explore the work." /></a>
-  <a href="https://github.com/RedactedNode?tab=repositories&amp;q=arma"><img src="./assets/portal-operations.svg" width="32%" alt="Operations: Built for the real world. Explore gaming systems." /></a>
-</p>
-
-<br>
-
-**One operating standard:** preserve context → connect the tools → execute → verify.
-
-## Sponsor a project
-
-![Sponsorship setup in progress](https://img.shields.io/badge/Sponsorship-Coming_soon-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)
-
-**REDACTED Command** is a local-first project workspace that helps people and AI agents pick up where the last shift ended. Sponsorship would support development, testing, and a public demo of the handoff workflow.
+![What I build — AI orchestration: Approval gates · agent handoffs, Model routing · fallback · quotas; Knowledge & decisions: Git-backed ledgers · provenance, Searchable archives · decision data; Web apps & interfaces: Responsive PWAs · camera input, Dashboards · quotes · publishing; Backend & data: Discord automation · SQL migrations, Tenant isolation · audit logs · jobs; Game infrastructure: Multi-instance Arma · mod tracking, FiveM resources · in-game UI; Deployment & QA: Windows services · Docker · Caddy, Health checks · rollback · a11y tests; Media automation: Gameplay ingest · transcription · highlight review, Captioned vertical and horizontal exports](./assets/what-i-build.svg)
 
 ## Tech stack
 
@@ -74,22 +72,17 @@ I'm **REDACTED**, a systems engineer connecting **AI orchestration, product inte
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-167C38?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-8B45A6?style=for-the-badge)
 
-![What I build — AI orchestration: Approval gates · agent handoffs, Model routing · fallback · quotas; Knowledge & decisions: Git-backed ledgers · provenance, Searchable archives · decision data; Web apps & interfaces: Responsive PWAs · camera input, Dashboards · quotes · publishing; Backend & data: Discord automation · SQL migrations, Tenant isolation · audit logs · jobs; Game infrastructure: Multi-instance Arma · mod tracking, FiveM resources · in-game UI; Deployment & QA: Windows services · Docker · Caddy, Health checks · rollback · a11y tests; Media automation: Gameplay ingest · transcription · highlight review, Captioned vertical and horizontal exports](./assets/what-i-build.svg)
+## Sponsor a project
+
+![Sponsorship setup in progress](https://img.shields.io/badge/Sponsorship-Coming_soon-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)
+
+**REDACTED Command** is a local-first project workspace that helps people and AI agents pick up where the last shift ended. Sponsorship would support development, testing, and a public demo of the handoff workflow.
 
 <details>
 <summary><strong>Open the field notes ↗</strong></summary>
 
-<br>
-
-- **AI systems:** provider-agnostic workflows, project continuity, structured handoffs, and automation.
-- **Interfaces:** clear hierarchy, purposeful motion, and tools that make complex work easier to navigate.
-- **Operations:** deployment, databases, Discord integrations, Arma Reforger, and FiveM.
-- **Open-source exploration:** my public workbench includes forks; original authors retain credit for their projects.
+- **Interfaces** · Responsive in-game interfaces, installable web apps, and operator dashboards.
+- **Media tooling** · Local ingest, transcription, highlight review, and captioned exports.
+- **Open-source workbench** · The public repository collection includes upstream forks credited to their original authors.
 
 </details>
-
-<br>
-
-<p align="center">
-  <sub><strong>HUMAN-LED. AI-AMPLIFIED. OUTCOME-DRIVEN.</strong></sub>
-</p>
