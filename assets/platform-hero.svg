@@ -35,37 +35,37 @@
 </g>
 <path d="M540 153l66 38v76l-66 38-66-38v-76z" fill="url(#core)" stroke="#54d2ec" stroke-width="1.5"/>
 <g transform="translate(520 184)" fill="none" stroke="#78e7f6" stroke-width="2"><path d="m20 0 20 10-20 10L0 10zM0 17l20 10 20-10M0 24l20 10 20-10"/></g>
-<text x="540" y="245" text-anchor="middle" class="sans" fill="#f1fbff" font-size="20" font-weight="750">PLATFORM</text>
-<text x="540" y="267" text-anchor="middle" class="mono" fill="#83d5e9" font-size="14" letter-spacing="2">OPERATIONS</text>
+<text x="540" y="245" text-anchor="middle" class="sans" fill="#f1fbff" font-size="20" font-weight="750">CONTROL</text>
+<text x="540" y="267" text-anchor="middle" class="mono" fill="#83d5e9" font-size="14" letter-spacing="2">PLANE</text>
 <g transform="translate(35 123)">
 <path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#58e9ff" stroke-opacity=".65"/>
 <path d="M0 41V0h32" fill="none" stroke="#58e9ff" stroke-width="2"/>
 <path d="M0 0h16v6H0zM0 10h16v6H0z" transform="translate(12 13)" fill="none" stroke="#58e9ff" stroke-width="1.35" stroke-linejoin="round"/>
-<text x="37" y="25" class="mono" fill="#58e9ff" font-size="15" font-weight="700">INFRASTRUCTURE</text>
-<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Windows Server / Docker</text>
+<text x="37" y="25" class="mono" fill="#58e9ff" font-size="15" font-weight="700">PLATFORM FOUNDATION</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Service isolation / Containers</text>
 </g><g transform="translate(35 257)">
 <path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#ffac64" stroke-opacity=".65"/>
 <path d="M0 41V0h32" fill="none" stroke="#ffac64" stroke-width="2"/>
 <path d="M0 2l6 6-6 6m9 1h8" transform="translate(12 13)" fill="none" stroke="#ffac64" stroke-width="1.35" stroke-linejoin="round"/>
-<text x="37" y="25" class="mono" fill="#ffac64" font-size="15" font-weight="700">DEPLOYMENT</text>
-<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">PowerShell / Caddy</text>
+<text x="37" y="25" class="mono" fill="#ffac64" font-size="15" font-weight="700">DELIVERY AUTOMATION</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Deployment / Reverse proxy</text>
 </g><g transform="translate(825 123)">
 <path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#78f5be" stroke-opacity=".65"/>
 <path d="M0 41V0h32" fill="none" stroke="#78f5be" stroke-width="2"/>
 <path d="M0 8h4l3-7 4 14 3-7h4" transform="translate(12 13)" fill="none" stroke="#78f5be" stroke-width="1.35" stroke-linejoin="round"/>
-<text x="37" y="25" class="mono" fill="#78f5be" font-size="15" font-weight="700">SERVICE HEALTH</text>
-<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Checks / Rollback</text>
+<text x="37" y="25" class="mono" fill="#78f5be" font-size="15" font-weight="700">SERVICE OBSERVABILITY</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Health probes / Recovery</text>
 </g><g transform="translate(825 257)">
 <path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#78b5ff" stroke-opacity=".65"/>
 <path d="M0 41V0h32" fill="none" stroke="#78b5ff" stroke-width="2"/>
 <path d="M0 4c0-5 16-5 16 0v10c0 5-16 5-16 0zM0 4c0 5 16 5 16 0m-16 5c0 5 16 5 16 0" transform="translate(12 13)" fill="none" stroke="#78b5ff" stroke-width="1.35" stroke-linejoin="round"/>
-<text x="37" y="25" class="mono" fill="#78b5ff" font-size="15" font-weight="700">DATA &amp; INTEGRATIONS</text>
-<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">PostgreSQL / Discord</text>
+<text x="37" y="25" class="mono" fill="#78b5ff" font-size="15" font-weight="700">INTEGRATION LAYER</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Persistence / API integration</text>
 </g><g transform="translate(430 372)">
 <path d="M0 0h207l13 13v51H13L0 51z" fill="#0a1522" stroke="#c3a1ff" stroke-opacity=".65"/>
 <path d="M0 41V0h32" fill="none" stroke="#c3a1ff" stroke-width="2"/>
 <path d="M8 0v16M0 8h16M2 2l12 12M2 14L14 2" transform="translate(12 13)" fill="none" stroke="#c3a1ff" stroke-width="1.35" stroke-linejoin="round"/>
 <text x="37" y="25" class="mono" fill="#c3a1ff" font-size="15" font-weight="700">AI ORCHESTRATION</text>
-<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Model routing / Approvals</text>
+<text x="13" y="47" class="sans" fill="#d7e6f2" font-size="14">Inference routing / Governance</text>
 </g>
 </g></svg>
