@@ -1,6 +1,6 @@
-![REDACTED | Platform Engineer](https://raw.githubusercontent.com/RedactedNode/RedactedNode/61e0f5aa4578eb682dbf6d3010bc13be1289d8b9/assets/platform-hero.svg)
+![REDACTED | Platform Engineer](https://raw.githubusercontent.com/RedactedNode/RedactedNode/cf7f8d39f9a893c625d434b4fd988b0959d401b9/assets/platform-hero.svg)
 
-Infrastructure automation · Deployment tooling · Service reliability · Backend integrations · AI orchestration
+Platform engineering · Workflow orchestration · Service observability · Integration architecture · AI infrastructure
 
 [Repositories](https://github.com/RedactedNode?tab=repositories) · [Vice Network](https://vicegamer.com)
 
