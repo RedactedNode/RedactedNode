@@ -68,15 +68,7 @@ I'm **REDACTED**, a systems engineer connecting **AI orchestration, product inte
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-167C38?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-8B45A6?style=for-the-badge)
 
-## What I build
-
-- man approval gates, agent roles, structured shift handoffs, and local-first planning. I deploy OpenAI-compatible model gateways with provider routing, fallback, quota controls, and health checks. | · undefined
-- t-backed knowledge ledgers, Obsidian workflows, architecture decision records, source provenance, and human-reviewed decisions. I build secret-redacted session archives with searchable indexes and integrity manifests, plus anonymized decision datasets for analysis. | · undefined
-- act, Next.js, TypeScript, Node.js, HTML, and CSS. Work includes responsive design systems, installable PWAs with camera input, owner dashboards, content approval, quote builders, scheduled jobs, SEO metadata, and optimized images and social previews. | · undefined
-- thon, discord.py, PostgreSQL, SQLite, and SMTP. I build Discord slash commands, role-based permissions, persisted workflows, database migrations, and retryable background jobs. I also design multi-tenant architectures with scoped access, audit logs, adapter-based integrations, and queued processing. | · undefined
-- lti-instance Arma Reforger hosting with SteamCMD, Windows services, isolated profiles, PID-safe lifecycle scripts, and automated mod version, size, and dependency reports. My Discord tooling supports recruitment, rosters, tickets, and after-action reporting. Vice Network work includes FiveM resources and responsive in-game UI. | · undefined
-- ndows Server, PowerShell, NSSM, Docker packaging, Caddy reverse-proxy configuration, service health checks, and rollback documentation. I use Vitest, Playwright, and axe for unit, browser, and accessibility checks. | · undefined
-- cal gameplay ingest, media fingerprinting, FFmpeg/FFprobe workflows, resumable Faster-Whisper transcription, SRT/WebVTT captions, highlight scoring, review and approval, and captioned vertical and horizontal exports. | · undefined
+![What I build — AI orchestration: Approval gates · agent handoffs, Model routing · fallback · quotas; Knowledge & decisions: Git-backed ledgers · provenance, Searchable archives · decision data; Web apps & interfaces: Responsive PWAs · camera input, Dashboards · quotes · publishing; Backend & data: Discord automation · SQL migrations, Tenant isolation · audit logs · jobs; Game infrastructure: Multi-instance Arma · mod tracking, FiveM resources · in-game UI; Deployment & QA: Windows services · Docker · Caddy, Health checks · rollback · a11y tests; Media automation: Gameplay ingest · transcription · highlight review, Captioned vertical and horizontal exports](./assets/what-i-build.svg)
 
 <details>
 <summary><strong>Open the field notes ↗</strong></summary>
