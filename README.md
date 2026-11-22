@@ -1,18 +1,8 @@
 # REDACTED | Platform Engineer
 
-I build and operate **self-hosted platforms, deployment automation, and internal tools**. My work spans multi-instance Windows server operations, PostgreSQL-backed services, and AI workflow infrastructure with explicit human approvals.
+Infrastructure automation · Deployment tooling · Service reliability · Backend integrations · AI orchestration
 
-<a href="https://github.com/RedactedNode?tab=repositories">
-  <img src="./assets/control-plane.gif" width="100%" alt="REDACTED. Human intent. Machine-scale execution. An animated neural core and moving signal illustrate the build protocol: intent, context, execution, proof." />
-</a>
-
-<p align="center">
-  <a href="https://github.com/RedactedNode?tab=repositories"><strong>ENTER THE WORKBENCH ↗</strong></a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://vicegamer.com"><strong>VICE NETWORK ↗</strong></a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="./assets/control-plane-poster.png">Static view</a>
-</p>
+[Repositories](https://github.com/RedactedNode?tab=repositories) · [Vice Network](https://vicegamer.com)
 
 ## Selected platform work
 
