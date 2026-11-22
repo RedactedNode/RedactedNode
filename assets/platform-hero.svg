@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="360" viewBox="0 0 1080 360" role="img" aria-labelledby="title desc">
+<title id="title">REDACTED | Platform Engineer</title>
+<desc id="desc">Animated angled server racks with signals traveling across a dark circuit board.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#111822"/><stop offset="1" stop-color="#070b11"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#14373d"/><stop offset="1" stop-color="#0a1018" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#86b5ca" stroke-opacity=".12"/></pattern>
+  <clipPath id="frame"><rect width="1080" height="360" rx="20"/></clipPath>
+</defs>
+<style>
+.pulse{stroke-dasharray:35 420;animation: flow 3.8s linear infinite}
+.return{animation-direction:reverse;animation-duration:5.4s}
+.lamp{animation: lamp 2.6s ease-in-out infinite alternate}
+@keyframes flow{to{stroke-dashoffset:-455}}
+@keyframes lamp{50%{opacity:.3}}
+@media(prefers-reduced-motion:reduce){.pulse,.lamp{animation:none}}
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1080" height="360" fill="url(#bg)"/>
+  <ellipse cx="826" cy="184" rx="320" ry="225" fill="url(#light)"/>
+  <rect x="538" width="542" height="360" fill="url(#grid)" opacity=".4"/>
+  <path d="M588 44h445v272H588" fill="none" stroke="#2d414e"/>
+  <path d="M633 256l193-83 172 65-194 84zM633 268l193-83 172 65-194 84z" fill="none" stroke="#284757"/>
+  <path d="M620 280l130 49 235-101M639 218l151 58 195-83M684 147l223 84 78-34" fill="none" stroke="#376273" stroke-width="2"/>
+  <path class="pulse" d="M620 280l130 49 235-101" fill="none" stroke="#60f5df" stroke-width="4" stroke-linecap="round"/>
+  <path class="pulse return" d="M684 147l223 84 78-34" fill="none" stroke="#ff885b" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(700 184)">
+    <path d="M-42 24l68-28 90 33-69 29z" fill="#60f5df" opacity=".12"/>
+    <path d="M-29-69l49-20 66 25-49 20z" fill="#253a47" stroke="#60f5df" stroke-opacity=".66"/>
+    <path d="M-29-69l66 25v75l-66-25z" fill="#152733" stroke="#385867"/>
+    <path d="M37-44l49-20v75L37 31z" fill="#0a151f" stroke="#385867"/>
+    <path d="M-29 6l66 25 49-20" fill="none" stroke="#60f5df" stroke-width="2"/>
+    <path d="M-19 -52l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -47l8 3" stroke="#60f5df" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0s"/><path d="M-19 -36l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -31l8 3" stroke="#60f5df" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.35s"/><path d="M-19 -20l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -15l8 3" stroke="#60f5df" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.7s"/>
+    <text transform="matrix(1,-.4,0,1,52,-7)" fill="#60f5df" font-family="monospace" font-size="16">01</text>
+  </g><g transform="translate(833 132)">
+    <path d="M-42 24l68-28 90 33-69 29z" fill="#ff885b" opacity=".12"/>
+    <path d="M-29-69l49-20 66 25-49 20z" fill="#253a47" stroke="#ff885b" stroke-opacity=".66"/>
+    <path d="M-29-69l66 25v75l-66-25z" fill="#152733" stroke="#385867"/>
+    <path d="M37-44l49-20v75L37 31z" fill="#0a151f" stroke="#385867"/>
+    <path d="M-29 6l66 25 49-20" fill="none" stroke="#ff885b" stroke-width="2"/>
+    <path d="M-19 -52l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -47l8 3" stroke="#ff885b" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.35s"/><path d="M-19 -36l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -31l8 3" stroke="#ff885b" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.7s"/><path d="M-19 -20l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -15l8 3" stroke="#ff885b" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:1.0499999999999998s"/>
+    <text transform="matrix(1,-.4,0,1,52,-7)" fill="#ff885b" font-family="monospace" font-size="16">02</text>
+  </g><g transform="translate(794 227)">
+    <path d="M-42 24l68-28 90 33-69 29z" fill="#85b9ff" opacity=".12"/>
+    <path d="M-29-69l49-20 66 25-49 20z" fill="#253a47" stroke="#85b9ff" stroke-opacity=".66"/>
+    <path d="M-29-69l66 25v75l-66-25z" fill="#152733" stroke="#385867"/>
+    <path d="M37-44l49-20v75L37 31z" fill="#0a151f" stroke="#385867"/>
+    <path d="M-29 6l66 25 49-20" fill="none" stroke="#85b9ff" stroke-width="2"/>
+    <path d="M-19 -52l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -47l8 3" stroke="#85b9ff" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:0.7s"/><path d="M-19 -36l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -31l8 3" stroke="#85b9ff" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:1.0499999999999998s"/><path d="M-19 -20l46 17v8l-46-17z" fill="#081019" stroke="#314753"/><path d="M-13 -15l8 3" stroke="#85b9ff" stroke-width="2" stroke-linecap="round" class="lamp" style="animation-delay:1.4s"/>
+    <text transform="matrix(1,-.4,0,1,52,-7)" fill="#85b9ff" font-family="monospace" font-size="16">03</text>
+  </g>
+  <path d="M48 66h56l10-10h93" fill="none" stroke="#60f5df" stroke-width="2"/>
+  <path d="M48 271h451l21-21h44" fill="none" stroke="#385565"/>
+  <path d="M48 271h33" stroke="#ff885b" stroke-width="3"/>
+  <text x="46" y="173" fill="#eff9ff" font-family="system-ui,sans-serif" font-size="78" font-weight="850" letter-spacing="-3">REDACTED</text>
+  <text x="50" y="224" fill="#78eddb" font-family="system-ui,sans-serif" font-size="29" font-weight="650" letter-spacing="4">PLATFORM ENGINEER</text>
+  <rect x=".5" y=".5" width="1079" height="359" rx="20" fill="none" stroke="#344958"/>
+</g>
+</svg>
