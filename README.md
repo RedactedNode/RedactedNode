@@ -1,4 +1,4 @@
-# REDACTED | Platform Engineer
+![REDACTED | Platform Engineer](./assets/platform-hero.svg)
 
 Infrastructure automation · Deployment tooling · Service reliability · Backend integrations · AI orchestration
 
