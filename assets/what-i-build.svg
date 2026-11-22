@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="589" viewBox="0 0 900 589" role="img" aria-labelledby="title desc">
+<title id="title">What I build</title>
+<desc id="desc">AI orchestration. Approval gates · agent handoffs. Model routing · fallback · quotas. Knowledge &amp; decisions. Git-backed ledgers · provenance. Searchable archives · decision data. Web apps &amp; interfaces. Responsive PWAs · camera input. Dashboards · quotes · publishing. Backend &amp; data. Discord automation · SQL migrations. Tenant isolation · audit logs · jobs. Game infrastructure. Multi-instance Arma · mod tracking. FiveM resources · in-game UI. Deployment &amp; QA. Windows services · Docker · Caddy. Health checks · rollback · a11y tests. Media automation. Gameplay ingest · transcription · highlight review. Captioned vertical and horizontal exports.</desc>
+<rect x="1" y="1" width="898" height="587" rx="25" fill="#10131b" stroke="#303749" stroke-width="2"/>
+<text x="28" y="59" fill="#f8f9fc" font-family="system-ui,sans-serif" font-size="38" font-weight="750">What I build</text>
+<g transform="translate(28 84)">
+<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#c7a0ff" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#c7a0ff"/>
+<text x="20" y="33" fill="#c7a0ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">AI orchestration</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Approval gates · agent handoffs</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Model routing · fallback · quotas</text>
+</g>
+<g transform="translate(458 84)">
+<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#78e6df" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#78e6df"/>
+<text x="20" y="33" fill="#78e6df" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Knowledge &amp; decisions</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Git-backed ledgers · provenance</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Searchable archives · decision data</text>
+</g>
+<g transform="translate(28 205)">
+<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#8cb9ff" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#8cb9ff"/>
+<text x="20" y="33" fill="#8cb9ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Web apps &amp; interfaces</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Responsive PWAs · camera input</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Dashboards · quotes · publishing</text>
+</g>
+<g transform="translate(458 205)">
+<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#ffc176" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#ffc176"/>
+<text x="20" y="33" fill="#ffc176" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Backend &amp; data</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Discord automation · SQL migrations</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Tenant isolation · audit logs · jobs</text>
+</g>
+<g transform="translate(28 326)">
+<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#b6e47d" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#b6e47d"/>
+<text x="20" y="33" fill="#b6e47d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Game infrastructure</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Multi-instance Arma · mod tracking</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">FiveM resources · in-game UI</text>
+</g>
+<g transform="translate(458 326)">
+<rect width="414" height="105" rx="13" fill="#1b2130" stroke="#ff9bac" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#ff9bac"/>
+<text x="20" y="33" fill="#ff9bac" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Deployment &amp; QA</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Windows services · Docker · Caddy</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Health checks · rollback · a11y tests</text>
+</g>
+<g transform="translate(28 447)">
+<rect width="844" height="105" rx="13" fill="#1b2130" stroke="#f6df7d" stroke-opacity=".45"/>
+<rect x="0" y="16" width="5" height="73" rx="2.5" fill="#f6df7d"/>
+<text x="20" y="33" fill="#f6df7d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Media automation</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Gameplay ingest · transcription · highlight review</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Captioned vertical and horizontal exports</text>
+</g>
+</svg>
