@@ -4,15 +4,6 @@ Platform engineering · Workflow orchestration · Service observability · Integ
 
 [Repositories](https://github.com/RedactedNode?tab=repositories) · [Vice Network](https://vicegamer.com)
 
-## Selected platform work
-
-| Project | What I built | What it enables |
-| --- | --- | --- |
-| **Arma Reforger server platform** | Documented five dedicated instances with separate configurations and profiles, Windows service wrappers, and PowerShell restart tooling. Automated pre- and post-restart mod inventories track version, size, and dependency changes. | Operators can restart individual instances and see what changed after a rollout. |
-| **DTOC · Discord operations platform** | Python and PostgreSQL service with Discord slash commands, role-based access, persistent rosters, recruitment workflows, and ticket assignment. | Community staff can manage routine operations from Discord with shared records and scoped access. |
-| **AI gateway deployment** | Deployed an OpenAI-compatible gateway as a Windows service. Documented version pinning, loopback-only access, and scripted health checks. | Local tools can use one endpoint for provider routing and fallback, with a repeatable way to verify service health. |
-| **REDACTED Command · In development** | Local-first project workspace designed around scoped approvals, structured handoffs, and verification checkpoints. | A person or agent can pick up work with the current state, decisions, and next action in view. |
-
 ![What I build — AI orchestration: Approval gates · agent handoffs, Model routing · fallback · quotas; Knowledge & decisions: Git-backed ledgers · provenance, Searchable archives · decision data; Web apps & interfaces: Responsive PWAs · camera input, Dashboards · quotes · publishing; Backend & data: Discord automation · SQL migrations, Tenant isolation · audit logs · jobs; Game infrastructure: Multi-instance Arma · mod tracking, FiveM resources · in-game UI; Deployment & QA: Windows services · Docker · Caddy, Health checks · rollback · a11y tests; Media automation: Gameplay ingest · transcription · highlight review, Captioned vertical and horizontal exports](./assets/what-i-build.svg)
 
 ## Tech stack
