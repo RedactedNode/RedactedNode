@@ -1,55 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="589" viewBox="0 0 900 589" role="img" aria-labelledby="title desc">
 <title id="title">What I build</title>
-<desc id="desc">AI infrastructure. Governance · context continuity. Inference routing · failover · quotas. Knowledge engineering. Versioned records · provenance. Indexed archives · decision support. Application engineering. Responsive PWAs · design systems. Operator tooling · content workflows. Data &amp; integration. API integration · schema migrations. Access control · auditability · jobs. Platform operations. Instance isolation · lifecycle tooling. Configuration · dependency tracking. Delivery engineering. Containerization · reverse proxies. Health probes · rollback · E2E tests. Media pipelines. Media ingest · transcription · candidate scoring. Review workflows · captioned delivery exports.</desc>
+<desc id="desc">Platform architecture. Service isolation · lifecycle management. Configuration · dependency management. Developer experience. Internal tooling · workflow automation. Reusable interfaces · design systems. Delivery engineering. Reproducible builds · containerization. Release validation · rollback readiness. Systems integration. API integration · relational persistence. Schema evolution · asynchronous jobs. Operational reliability. Health monitoring · failure recovery. Runbooks · environment isolation. AI platform engineering. Inference routing · provider abstraction. Failover · quotas · approval workflows. Governance &amp; knowledge systems. Access control · auditability · provenance. Context continuity · versioned operational knowledge</desc>
 <rect x="1" y="1" width="898" height="587" rx="25" fill="#10131b" stroke="#303749" stroke-width="2"/>
 <text x="28" y="59" fill="#f8f9fc" font-family="system-ui,sans-serif" font-size="38" font-weight="750">What I build</text>
 <g transform="translate(28 84)">
 <rect width="414" height="105" rx="13" fill="#1b2130" stroke="#c7a0ff" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#c7a0ff"/>
-<text x="20" y="33" fill="#c7a0ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">AI infrastructure</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Governance · context continuity</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Inference routing · failover · quotas</text>
+<text x="20" y="33" fill="#c7a0ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Platform architecture</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Service isolation · lifecycle management</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Configuration · dependency management</text>
 </g>
 <g transform="translate(458 84)">
 <rect width="414" height="105" rx="13" fill="#1b2130" stroke="#78e6df" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#78e6df"/>
-<text x="20" y="33" fill="#78e6df" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Knowledge engineering</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Versioned records · provenance</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Indexed archives · decision support</text>
+<text x="20" y="33" fill="#78e6df" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Developer experience</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Internal tooling · workflow automation</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Reusable interfaces · design systems</text>
 </g>
 <g transform="translate(28 205)">
 <rect width="414" height="105" rx="13" fill="#1b2130" stroke="#8cb9ff" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#8cb9ff"/>
-<text x="20" y="33" fill="#8cb9ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Application engineering</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Responsive PWAs · design systems</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Operator tooling · content workflows</text>
+<text x="20" y="33" fill="#8cb9ff" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Delivery engineering</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Reproducible builds · containerization</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Release validation · rollback readiness</text>
 </g>
 <g transform="translate(458 205)">
 <rect width="414" height="105" rx="13" fill="#1b2130" stroke="#ffc176" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#ffc176"/>
-<text x="20" y="33" fill="#ffc176" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Data &amp; integration</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">API integration · schema migrations</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Access control · auditability · jobs</text>
+<text x="20" y="33" fill="#ffc176" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Systems integration</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">API integration · relational persistence</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Schema evolution · asynchronous jobs</text>
 </g>
 <g transform="translate(28 326)">
 <rect width="414" height="105" rx="13" fill="#1b2130" stroke="#b6e47d" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#b6e47d"/>
-<text x="20" y="33" fill="#b6e47d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Platform operations</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Instance isolation · lifecycle tooling</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Configuration · dependency tracking</text>
+<text x="20" y="33" fill="#b6e47d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Operational reliability</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Health monitoring · failure recovery</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Runbooks · environment isolation</text>
 </g>
 <g transform="translate(458 326)">
 <rect width="414" height="105" rx="13" fill="#1b2130" stroke="#ff9bac" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#ff9bac"/>
-<text x="20" y="33" fill="#ff9bac" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Delivery engineering</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Containerization · reverse proxies</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Health probes · rollback · E2E tests</text>
+<text x="20" y="33" fill="#ff9bac" font-family="system-ui,sans-serif" font-size="25" font-weight="700">AI platform engineering</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Inference routing · provider abstraction</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Failover · quotas · approval workflows</text>
 </g>
 <g transform="translate(28 447)">
 <rect width="844" height="105" rx="13" fill="#1b2130" stroke="#f6df7d" stroke-opacity=".45"/>
 <rect x="0" y="16" width="5" height="73" rx="2.5" fill="#f6df7d"/>
-<text x="20" y="33" fill="#f6df7d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Media pipelines</text>
-<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Media ingest · transcription · candidate scoring</text>
-<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Review workflows · captioned delivery exports</text>
+<text x="20" y="33" fill="#f6df7d" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Governance &amp; knowledge systems</text>
+<text x="20" y="63" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Access control · auditability · provenance</text>
+<text x="20" y="88" fill="#edf0f7" font-family="system-ui,sans-serif" font-size="19">Context continuity · versioned operational knowledge</text>
 </g>
 </svg>
